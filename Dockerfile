@@ -1,4 +1,4 @@
-FROM ubuntu:precise
+FROM ubuntu:trusty
 MAINTAINER Sebastian Kempken
 RUN apt-get update
 RUN apt-get upgrade -y
